@@ -1,0 +1,6 @@
+{
+    "name": "claymm/verot",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
