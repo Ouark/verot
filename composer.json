@@ -1,5 +1,5 @@
 {
-    "name": "claymm/verot.class.upload",
+    "name": "claymm/verot-upload",
     "require": {
         "php": ">=5.3.0"
     }
