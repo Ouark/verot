@@ -38,20 +38,20 @@
  */
 
     $translation = array();
-    $translation['file_error']                  = 'Bestandsfout. Probeer het opnieuw svp.';
+    $translation['file_error']                  = 'Bestandsfout. Probeer het opnieuw aub.';
     $translation['local_file_missing']          = 'Het lokale bestand is niet gevonden.';
     $translation['local_file_not_readable']     = 'Het lokale bestand is niet leesbaar.';
     $translation['uploaded_too_big_ini']        = 'Upload fout (de grootte van het bestand is meer dan is toegestaan door de upload_max_filesize parameter in php.ini).';
     $translation['uploaded_too_big_html']       = 'Upload fout (de grootte van het bestand is meer dan is toegestaan door de MAX_FILE_SIZE parameter in het html formulier).';
     $translation['uploaded_partial']            = 'Upload fout (het bestand is slechts gedeeltelijk ge-upload).';
     $translation['uploaded_missing']            = 'Upload fout (er is geen bestand ge-upload).';
-    $translation['uploaded_no_tmp_dir']         = 'Upload fout (de tijdelijke opslag folder ontbreekt).';
+    $translation['uploaded_no_tmp_dir']         = 'Upload fout (de tijdelijke opslag map ontbreekt).';
     $translation['uploaded_cant_write']         = 'Upload fout (kon bestand niet opslaan).';
     $translation['uploaded_err_extension']      = 'Upload fout (het bestand heeft de verkeerde extensie).';
     $translation['uploaded_unknown']            = 'Upload fout (onbekende foutcode).';
-    $translation['try_again']                   = 'Upload fout. Probeer het opnieuw svp.';
+    $translation['try_again']                   = 'Upload fout. Probeer het opnieuw aub.';
     $translation['file_too_big']                = 'Het bestand is te groot.';
-    $translation['no_mime']                     = 'MIME soort kan niet vastgesteld worden.';
+    $translation['no_mime']                     = 'MIME-type kan niet vastgesteld worden.';
     $translation['incorrect_file']              = 'Incorrect type bestand.';
     $translation['image_too_wide']              = 'De afbeelding is te breed.';
     $translation['image_too_narrow']            = 'De afbeelding is te smal.';
@@ -62,13 +62,13 @@
     $translation['too_many_pixels']             = 'De afbeelding bevat te veel pixels.';
     $translation['not_enough_pixels']           = 'De afbeelding bevat te weinig pixels.';
     $translation['file_not_uploaded']           = 'Bestand niet ge-upload. Kan de verwerking niet afmaken.';
-    $translation['already_exists']              = '%s bestaat al. Kies svp een andere bestandsnaam.';
+    $translation['already_exists']              = '%s bestaat al. Kies aub een andere bestandsnaam.';
     $translation['temp_file_missing']           = 'Incorrect tijdelijk bron-bestand. Kan de verwerking niet afmaken.';
     $translation['source_missing']              = 'Incorrecte upload bron-bestand. Kan de verwerking niet afmaken.';
-    $translation['destination_dir']             = 'Doel directory kan niet gemaakt worden. Kan de verwerking niet afmaken.';
-    $translation['destination_dir_missing']     = 'Doel directory bestaat niet. Kan de verwerking niet afmaken.';
-    $translation['destination_path_not_dir']    = 'Doel pad is geen directory. Kan de verwerking niet afmaken.';
-    $translation['destination_dir_write']       = 'Doel directory kan niet schrijfbaar gemaakt worden. Kan de verwerking niet afmaken.';
+    $translation['destination_dir']             = 'Doel map kan niet gemaakt worden. Kan de verwerking niet afmaken.';
+    $translation['destination_dir_missing']     = 'Doel map bestaat niet. Kan de verwerking niet afmaken.';
+    $translation['destination_path_not_dir']    = 'Doel pad is geen map. Kan de verwerking niet afmaken.';
+    $translation['destination_dir_write']       = 'Doel map kan niet schrijfbaar gemaakt worden. Kan de verwerking niet afmaken.';
     $translation['destination_path_write']      = 'Doel pad is niet schrijfbaar. Kan de verwerking niet afmaken.';
     $translation['temp_file']                   = 'Kan geen tijdelijk bestand maken. Kan de verwerking niet afmaken.';
     $translation['source_not_readable']         = 'Bron-bestand is niet leesbaar. Kan de verwerking niet afmaken.';
